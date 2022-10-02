@@ -1,0 +1,27 @@
+section{
+    background-image: url(../img/ba1.jpg);
+    background-color: rgb(50,50,50);
+    background-blend-mode: soft-light;
+    background-size: cover;
+    align-items: end;
+}
+article{
+    display: flex;
+    height: 650px;
+    width: 540px;
+    align-items: center;
+    margin-right: 150px;
+}
+.centrado{
+    display: flex;
+    align-items: center;
+}
+.botonChico{
+    width: 85px;
+}
+
+.centrado2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
